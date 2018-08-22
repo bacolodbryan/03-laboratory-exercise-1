@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Linear Layout</string>
+    <string name="btn1">BUTTON 1</string>
+    <string name="btn2">BUTTON 2</string>
+    <string name="btn3">BUTTON 3</string>
+    <string name="btn4">BUTTON 4</string>
+    <string name="btn5">BUTTON 5</string>
+    <string name="btn6">BUTTON 6</string>
+    <string name="btn7">BUTTON 7</string>
+    <string name="btn8">BUTTON 8</string>
+    <string name="btn9">BUTTON 9</string>
+    <string name="btn10">BUTTON 10</string>
+    <string name="btn11">BUTTON 11</string>
+    <string name="btn12">BUTTON 12</string>
+
+</resources>
